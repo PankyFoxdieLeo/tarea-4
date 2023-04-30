@@ -1,0 +1,18 @@
+.cuerpo
+    
+    {font-size:20px;
+        background-color: rgb(202, 167, 124);}
+        /* aprender a hacer degradado */
+.header
+{ 
+    background-color:black;
+    color:red
+    }
+.title 
+    {
+        font-style: italic;
+        color:rgb(21, 21, 170)
+            }
+
+.bold
+    {}
